@@ -1,0 +1,2 @@
+# gestion_bienes
+inicial
